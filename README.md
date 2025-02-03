@@ -16,7 +16,7 @@ This is a simple image slider project using HTML, CSS, and JavaScript.
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Sekul2345/image-slider.git
+   git clone https://github.com/Sekul2345/IMAGE-SLIDER.git
    ```
 2. Navigate to the project directory:
    ```sh
